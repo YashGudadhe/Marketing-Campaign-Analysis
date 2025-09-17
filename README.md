@@ -3,10 +3,11 @@
 ## 🔍 Project Overview  
 This project focuses on analyzing a **Marketing Campaign dataset** using **Power BI**.  
 The goal is to uncover customer behavior patterns, campaign performance, and key insights that can help improve future marketing strategies.  
+Measuring campaign effectiveness, Understanding audience engagement,Identifying strength and weakness, Guiding future campaign
 
 The dashboard provides an **interactive and visually appealing report** that allows stakeholders to quickly understand trends, KPIs, and actionable insights.  
 
----
++---
 
 ## 🎯 Key Objectives  
 - Analyze campaign performance across different customer demographics  
