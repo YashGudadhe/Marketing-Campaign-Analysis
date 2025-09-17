@@ -32,5 +32,3 @@ The dashboard provides an **interactive and visually appealing report** that all
 - **Data Cleaning & Transformation** – Power Query  
 
 ---
-
-## 📂 Repository Structure  
